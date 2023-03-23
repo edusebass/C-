@@ -1,2 +1,2 @@
 # c++
-Learn the fundamentals of C++.
+Everything about code C++.
